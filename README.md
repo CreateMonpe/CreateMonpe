@@ -39,12 +39,6 @@ https://github.com/orgs/ProjectSecureATM/repositories
 
 <br>
 
-## Experiência Profissional ou Acadêmica
-
-
-## Certificações ou Cursos Relevantes
-
-
 ## Interesses e Paixões
 Meu tempo livre é uma mistura de paixões variadas. Sou um entusiasta do futebol e já competi em níveis federais de Polo Aquático e natação, desenvolvendo uma mentalidade competitiva. Além disso, música e jogos são parte integrante do meu lazer, proporcionando um escape relaxante. Sou movido pela curiosidade e paixão por aprender, buscando constantemente novos desafios que me tirem da zona de conforto. Tenho uma forte inclinação para explorar tecnologias emergentes, sendo esta uma das áreas que mais desperta minha curiosidade.
 
