@@ -25,7 +25,7 @@
 # Sobre Mim
 
 ## Resumo Profissional
-Sou estudante de Sistemas de Informação na São Paulo Tech School, atualmente cursando o segundo semestre. Tenho dedicado minha formação ao estudo e aprofundamento em diferentes áreas da tecnologia.
+Sou estudante de Sistemas de Informação na São Paulo Tech School, atualmente cursando o terceiro semestre. Tenho dedicado minha formação ao estudo e aprofundamento em diferentes áreas da tecnologia.
 
 ## Habilidades Técnicas
 - Linguagens de Programação: Python, Kotlin, JavaScript, 
